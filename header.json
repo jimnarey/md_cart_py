@@ -1,0 +1,86 @@
+{
+    "system" : {
+        "start" : 256,
+        "length" : 16,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "copyright" : {
+        "start" : 272,
+        "length" : 16,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "title_dom" : {
+        "start" : 288,
+        "length" : 48,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "title_int" : {
+        "start" : 336,
+        "length" : 48,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "serial" : {
+        "start" : 384,
+        "length" : 14,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "rom_check" : {
+        "start" : 398,
+        "length" : 2,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "devices" : {
+        "start" : 400,
+        "length" : 16,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "rom_range" : {
+        "start" : 416,
+        "length" : 8,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "ram_range" : {
+        "start" : 424,
+        "length" : 8,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "extra_mem" : {
+        "start" : 432,
+        "length" : 12,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "modem" : {
+        "start" : 444,
+        "length" : 12,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "reserved_1" : {
+        "start" : 456,
+        "length" : 40,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "region" : {
+        "start" : 496,
+        "length" : 3,
+        "type" : "text",
+        "description" : "System" 
+    },
+    "reserved_2" : {
+        "start" : 499,
+        "length" : 13,
+        "type" : "text",
+        "description" : "System" 
+    }
+}
